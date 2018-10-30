@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week2-037.PrintingOutText" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="PrintingOutText" />
+    <module name="week2-037.PrintingOutText" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
