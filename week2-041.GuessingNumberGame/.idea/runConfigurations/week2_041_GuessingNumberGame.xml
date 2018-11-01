@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week2-041.GuessingNumberGame" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="GuessingNumberGame" />
+    <module name="week2-041.GuessingNumberGame" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
