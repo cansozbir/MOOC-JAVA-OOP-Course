@@ -1,5 +1,5 @@
 # MOOC-JAVA-OOP-Course-Codes
-You can see my code examples for the object oriented programming course of Univercity of Helsinki.
+You can see my code examples for the object oriented programming course of University of Helsinki.
 
 Authors: Arto Hellas, Matti Luukkainen
 Translators to English: Emilia Hjelm, Alex H. Virtanen, Matti Luukkainen, Virpi Sumu, Birunthan Mohanathas
